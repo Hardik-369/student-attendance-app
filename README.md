@@ -1,4 +1,4 @@
-# 🎓 Name List Keeper
+# 🎓 Student Attendance App
 
 > A modern, professional web application for streamlined student attendance management
 
@@ -8,7 +8,7 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Responsive Design](https://img.shields.io/badge/Design-Responsive-green.svg)](#responsive-design)
 
-**Name List Keeper** is a comprehensive, browser-based student attendance management system designed for educational institutions. Built with modern web technologies, it provides teachers with an intuitive, professional interface to efficiently track student attendance across multiple academic years.
+**Student Attendance App** is a comprehensive, browser-based student attendance management system designed for educational institutions. Built with modern web technologies, it provides teachers with an intuitive, professional interface to efficiently track student attendance across multiple academic years.
 
 ---
 
@@ -46,7 +46,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/name-list-keeper.git
+   git clone https://github.com/Hardik-369/student-attendance-app.git
    cd name-list-keeper
    ```
 
@@ -219,7 +219,7 @@ We welcome contributions! Here's how you can help:
 - Add comments for complex logic
 
 ### Reporting Issues
-Please use the [GitHub Issues](https://github.com/yourusername/name-list-keeper/issues) page to report bugs or request features.
+Please use the [GitHub Issues](https://github.com/Hardik-369/student-attendance-app/issues) page to report bugs or request features.
 
 ---
 
@@ -262,19 +262,11 @@ SOFTWARE.
 
 ---
 
-## 📞 Support
-
-- 📧 **Email**: support@namelistkeeper.com
-- 🐛 **Issues**: [GitHub Issues](https://github.com/yourusername/name-list-keeper/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/yourusername/name-list-keeper/discussions)
-- 📖 **Wiki**: [Project Wiki](https://github.com/yourusername/name-list-keeper/wiki)
-
----
-
 <div align="center">
 
 **Made with ❤️ for educators worldwide**
 
-[⭐ Star this repo](https://github.com/yourusername/name-list-keeper) • [🍴 Fork it](https://github.com/yourusername/name-list-keeper/fork) • [📢 Share it](https://twitter.com/intent/tweet?text=Check%20out%20Name%20List%20Keeper%20-%20A%20modern%20student%20attendance%20management%20system%21&url=https://github.com/yourusername/name-list-keeper)
+[⭐ Star this repo](https://github.com/Hardik-369/student-attendance-app) • [🍴 Fork it](https://github.com/Hardik-369/student-attendance-app/fork) 
+
 
 </div>
